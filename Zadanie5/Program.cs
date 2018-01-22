@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* Zadanie 5
+ * Napisz metodę, która dla spójnego grafu nieskierowanego, dla którego dane są
+ * liczbowe wagi krawędzi, znajduje drzewo rozpinające o maksymalnej wartości.
+ * */
+
 namespace Zadanie5
 {
-
     class MST
     {
         // Number of vertices in the graph
